@@ -5,7 +5,7 @@ CONTENTS:
 
 Folders:
 
-layouts - Contains the two layouts default.html and post.html
+layouts - Contains the two layout files default.html and post.html
 
 posts - Contains posts displayed on the blog page.
 
@@ -15,11 +15,11 @@ css - Contains the main.css file.
 
 Files:
 
-.gitignore
+.gitignore - File for Jekyll.
 
-README.md
+README.md - This file.
 
-config.yml
+config.yml - File for linking Jekyll to markdown.
 
 about.html - Content of the "About" page
 
