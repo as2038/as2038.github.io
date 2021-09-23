@@ -1,2 +1,2 @@
 # as2038.github.io
-Artemiy Stepanov's repository.
+Repository for the as2038.github.io/ website.
