@@ -7,9 +7,9 @@ Folders:
 
 layouts - Contains the two layout files default.html and post.html
 
-posts - Contains posts displayed on the blog page.
+posts - Contains the markdown files of posts displayed on the "Blog" page.
 
-blog - Contains index.html used by the blog page.
+blog - Contains index.html used by the "Blog" page.
 
 css - Contains the main.css file.
 
